@@ -79,8 +79,7 @@ export default function IndexNavbar() {
       <Container>
         <div className="navbar-translate">
           <NavbarBrand to="/" tag={Link} id="navbar-brand">
-            <span>BLK• </span>
-            Design System React
+            <span>TorchIndex• </span>
           </NavbarBrand>
           <UncontrolledTooltip placement="bottom" target="navbar-brand">
             Designed and Coded by Creative Tim
@@ -124,7 +123,7 @@ export default function IndexNavbar() {
             <NavItem className="p-0">
               <NavLink
                 data-placement="bottom"
-                href="https://twitter.com/CreativeTim"
+                href="https://twitter.com/torchlabs_ai/"
                 rel="noopener noreferrer"
                 target="_blank"
                 title="Follow us on Twitter"
@@ -136,7 +135,7 @@ export default function IndexNavbar() {
             <NavItem className="p-0">
               <NavLink
                 data-placement="bottom"
-                href="https://www.facebook.com/CreativeTim"
+                href="https://twitter.com/torchlabs_ai/"
                 rel="noopener noreferrer"
                 target="_blank"
                 title="Like us on Facebook"
@@ -148,7 +147,7 @@ export default function IndexNavbar() {
             <NavItem className="p-0">
               <NavLink
                 data-placement="bottom"
-                href="https://www.instagram.com/CreativeTimOfficial"
+                href="https://twitter.com/torchlabs_ai/"
                 rel="noopener noreferrer"
                 target="_blank"
                 title="Follow us on Instagram"
@@ -188,7 +187,7 @@ export default function IndexNavbar() {
                 </DropdownItem>
               </DropdownMenu>
             </UncontrolledDropdown>
-            <NavItem>
+            {/* <NavItem>
               <Button
                 className="nav-link d-none d-lg-block"
                 color="primary"
@@ -197,14 +196,14 @@ export default function IndexNavbar() {
               >
                 <i className="tim-icons icon-spaceship" /> Upgrade to PRO
               </Button>
-            </NavItem>
+            </NavItem> */}
             <NavItem>
               <Button
                 className="nav-link d-none d-lg-block"
                 color="default"
                 onClick={scrollToDownload}
               >
-                <i className="tim-icons icon-cloud-download-93" /> Download
+                <i className="tim-icons icon-cloud-download-93" /> Try TorchIndex
               </Button>
             </NavItem>
           </Nav>
