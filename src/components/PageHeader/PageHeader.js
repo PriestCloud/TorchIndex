@@ -32,7 +32,7 @@ export default function PageHeader() {
       <div className="squares square7" />
       <Container>
         <div className="content-center brand">
-          <h1 className="h1-seo"> Crypto Index </h1>
+          <h2 className="h1-seo"> Data Indexer </h2>
           <h4 className="d-none d-sm-block">
             An Application built on Fuel Blockchain to access on-chain Data Easily.
           </h4>

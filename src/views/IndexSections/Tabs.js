@@ -93,32 +93,32 @@ export default function Tabs() {
                 <TabContent className="tab-space" activeTab={"link" + iconTabs}>
                   <TabPane tabId="link1">
                     <p>
-                      Collaboratively administrate empowered markets via
-                      plug-and-play networks. Dynamically procrastinate B2C
-                      users after installed base benefits. <br />
+                      Access, read and edit Fuel network data.
+                      Constant Information flow is guarateed
+                       <br />
                       <br />
-                      Dramatically visualize customer directed convergence
-                      without revolutionary ROI.
+                      Power your fuel networks apps with real-time blockchain data 
+                      and subgraphs without managing any complex infrastructure.
                     </p>
                   </TabPane>
                   <TabPane tabId="link2">
-                    <p>
-                      Completely synergize resource taxing relationships via
-                      premier niche markets. Professionally cultivate one-to-one
-                      customer service with robust ideas. <br />
+                  <p>
+                      Access, read and edit Fuel network data.
+                      Constant Information flow is guarateed
+                       <br />
                       <br />
-                      Dynamically innovate resource-leveling customer service
-                      for state of the art customer service.
+                      Power your fuel networks apps with real-time blockchain data 
+                      and subgraphs without managing any complex infrastructure.
                     </p>
                   </TabPane>
                   <TabPane tabId="link3">
-                    <p>
-                      Efficiently unleash cross-media information without
-                      cross-media value. Quickly maximize timely deliverables
-                      for real-time schemas. <br />
+                  <p>
+                      Access, read and edit Fuel network data.
+                      Constant Information flow is guarateed
+                       <br />
                       <br />
-                      Dramatically maintain clicks-and-mortar solutions without
-                      functional solutions.
+                      Power your fuel networks apps with real-time blockchain data 
+                      and subgraphs without managing any complex infrastructure.
                     </p>
                   </TabPane>
                 </TabContent>
@@ -172,38 +172,30 @@ export default function Tabs() {
               <CardBody>
                 <TabContent className="tab-space" activeTab={"link" + textTabs}>
                   <TabPane tabId="link4">
-                    <p>
-                      These cases are perfectly simple and easy to distinguish.
-                      In a free hour, when our power of choice is untrammelled
-                      and when nothing prevents our being able to do what we
-                      like best, every pleasure is to be welcomed and every pain
-                      avoided. <br />
-                      But in certain circumstances and owing to the claims of
-                      duty or the obligations of business it will frequently
-                      occur that pleasures
+                  <p>
+                      TorchIndex lets you develop real-time streams for your decentralized 
+                      applications so you dont have to manage complex data yourself. 
+                      <br />
+                      By indexing data from Fuel Network, TorchIndex helps transform the
+                      needed data to serve your app's requirement in real-time.
                     </p>
                   </TabPane>
                   <TabPane tabId="link5">
-                    <p>
-                      I will be the leader of a company that ends up being worth
-                      billions of dollars, because I got the answers. I
-                      understand culture. I am the nucleus. I think that’s a
-                      responsibility that I have, to push possibilities, to show
-                      people, this is the level that things could be at. I think
-                      that’s a responsibility that I have, to push
-                      possibilities, to show people, this is the level that
-                      things could be at.
+                  <p>
+                      TorchIndex lets you develop real-time streams for your decentralized 
+                      applications so you dont have to manage complex data yourself. 
+                      <br />
+                      By indexing data from Fuel Network, TorchIndex helps transform the
+                      needed data to serve your app's requirement in real-time.
                     </p>
                   </TabPane>
                   <TabPane tabId="link6">
-                    <p>
-                      I think that’s a responsibility that I have, to push
-                      possibilities, to show people, this is the level that
-                      things could be at. So when you get something that has the
-                      name Kanye West on it, it’s supposed to be pushing the
-                      furthest possibilities. I will be the leader of a company
-                      that ends up being worth billions of dollars, because I
-                      got the answers. I understand culture. I am the nucleus.
+                  <p>
+                      TorchIndex lets you develop real-time streams for your decentralized 
+                      applications so you dont have to manage complex data yourself. 
+                      <br />
+                      By indexing data from Fuel Network, TorchIndex helps transform the
+                      needed data to serve your app's requirement in real-time.
                     </p>
                   </TabPane>
                 </TabContent>

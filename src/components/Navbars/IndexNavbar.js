@@ -82,7 +82,7 @@ export default function IndexNavbar() {
             <span>TorchIndex• </span>
           </NavbarBrand>
           <UncontrolledTooltip placement="bottom" target="navbar-brand">
-            Designed and Coded by Creative Tim
+            TorchIndex is an enterprise-grade Fuel Indexing Solution
           </UncontrolledTooltip>
           <button
             aria-expanded={collapseOpen}
@@ -179,7 +179,7 @@ export default function IndexNavbar() {
                 </DropdownItem>
                 <DropdownItem tag={Link} to="/landing-page">
                   <i className="tim-icons icon-image-02" />
-                  Landing Page
+                  TorchIndex Info
                 </DropdownItem>
                 <DropdownItem tag={Link} to="/profile-page">
                   <i className="tim-icons icon-single-02" />
