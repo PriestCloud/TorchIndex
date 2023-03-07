@@ -39,15 +39,10 @@ export default function Tabs() {
     <div className="section section-tabs">
       <Container>
         <div className="title">
-          <h3 className="mb-3">Navigation Tabs</h3>
+          <h3 className="mb-3">Using Fuel Network</h3>
         </div>
         <Row>
           <Col className="ml-auto mr-auto" md="10" xl="6">
-            <div className="mb-3">
-              <small className="text-uppercase font-weight-bold">
-                With icons
-              </small>
-            </div>
             <Card>
               <CardHeader>
                 <Nav className="nav-tabs-info" role="tablist" tabs>
@@ -126,11 +121,6 @@ export default function Tabs() {
             </Card>
           </Col>
           <Col className="ml-auto mr-auto" md="10" xl="6">
-            <div className="mb-3">
-              <small className="text-uppercase font-weight-bold">
-                With text
-              </small>
-            </div>
             <Card>
               <CardHeader>
                 <Nav className="nav-tabs-info" role="tablist" tabs>

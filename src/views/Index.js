@@ -49,20 +49,9 @@ export default function Index() {
       <div className="wrapper">
         <PageHeader />
         <div className="main">
+        <Download />
           <Tabs />
-
-          {/* <Basics /> */}
-          {/*<Navbars />
-          <Pagination />
-          <Notifications />
-          <Typography />
-          <JavaScript />
-          <NucleoIcons />
-          <Signup />
-          <Examples />
-          <Download /> */}
         </div>
-        {/* <Footer /> */}
       </div>
     </>
   );

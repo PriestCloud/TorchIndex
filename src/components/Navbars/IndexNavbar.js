@@ -132,30 +132,33 @@ export default function IndexNavbar() {
                 <p className="d-lg-none d-xl-none">Twitter</p>
               </NavLink>
             </NavItem>
+
             <NavItem className="p-0">
               <NavLink
                 data-placement="bottom"
-                href="https://twitter.com/torchlabs_ai/"
+                href="https://github.com/mmchougule/"
                 rel="noopener noreferrer"
                 target="_blank"
-                title="Like us on Facebook"
+                title="Check out our Github"
               >
-                <i className="fab fa-facebook-square" />
-                <p className="d-lg-none d-xl-none">Facebook</p>
+                <i className="fab fa-github" />
+                <p className="d-lg-none d-xl-none">Github</p>
               </NavLink>
             </NavItem>
+
             <NavItem className="p-0">
               <NavLink
                 data-placement="bottom"
-                href="https://twitter.com/torchlabs_ai/"
+                href="https://discord.gg/W4ZT6YRM/"
                 rel="noopener noreferrer"
                 target="_blank"
-                title="Follow us on Instagram"
+                title="Vibe with us on Discord"
               >
-                <i className="fab fa-instagram" />
-                <p className="d-lg-none d-xl-none">Instagram</p>
+                <i className="fab fa-discord" />
+                <p className="d-lg-none d-xl-none">Discord</p>
               </NavLink>
             </NavItem>
+
             <UncontrolledDropdown nav>
               <DropdownToggle
                 caret
@@ -169,34 +172,17 @@ export default function IndexNavbar() {
                 Getting started
               </DropdownToggle>
               <DropdownMenu className="dropdown-with-icons">
-                <DropdownItem href="https://demos.creative-tim.com/blk-design-system-react/#/documentation/overview">
+                <DropdownItem href="https://torch-labs.readme.io/reference/getrecommendationsbycategories">
                   <i className="tim-icons icon-paper" />
                   Documentation
                 </DropdownItem>
-                <DropdownItem tag={Link} to="/register-page">
+                <DropdownItem href = "contact@torchlabs.ai">
                   <i className="tim-icons icon-bullet-list-67" />
-                  Register Page
-                </DropdownItem>
-                <DropdownItem tag={Link} to="/landing-page">
-                  <i className="tim-icons icon-image-02" />
-                  TorchIndex Info
-                </DropdownItem>
-                <DropdownItem tag={Link} to="/profile-page">
-                  <i className="tim-icons icon-single-02" />
-                  Profile Page
+                  Contact Us 
                 </DropdownItem>
               </DropdownMenu>
             </UncontrolledDropdown>
-            {/* <NavItem>
-              <Button
-                className="nav-link d-none d-lg-block"
-                color="primary"
-                target="_blank"
-                href="https://www.creative-tim.com/product/blk-design-system-pro-react?ref=bdsr-user-archive-index-navbar-upgrade-pro"
-              >
-                <i className="tim-icons icon-spaceship" /> Upgrade to PRO
-              </Button>
-            </NavItem> */}
+            
             <NavItem>
               <Button
                 className="nav-link d-none d-lg-block"

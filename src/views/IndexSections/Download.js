@@ -31,24 +31,22 @@ export default function Download() {
         <Row className="justify-content-md-center">
           <Col className="text-center" lg="8" md="12">
             <h2 className="title">
-              Do you love this Bootstrap 4 React Design System?
+              Try out the fastest blockchain indexer build by Torchlabs_AI
             </h2>
             <h4 className="description">
-              Cause if you do, it can be yours for FREE. Hit the button below to
-              navigate to Creative Tim where you can find the design system in
-              React format. Start a new project or give an old Bootstrap project
-              a new look!
-            </h4>
+              TorchIndex allows developers to focus exclusively on the applications 
+              they are building without worrying about the data access or querying
+         </h4>
           </Col>
           <Col className="text-center" lg="8" md="12">
             <Button
               className="btn-round"
               color="info"
-              href="https://www.creative-tim.com/product/blk-design-system-react?ref=blkdsr-index-page-download-section"
+              href="https://www.torchlabs.ai/"
               role="button"
               size="lg"
             >
-              Download React
+              Use TorchIndex API
             </Button>
           </Col>
         </Row>
@@ -63,7 +61,7 @@ export default function Download() {
               Thank you for supporting us!
             </h3>
             <h4 className="mb-0 font-weight-light">
-              Let's get in touch on any of these platforms.
+              Get in touch on any of these platforms.
             </h4>
           </Col>
           <Col className="text-lg-center btn-wrapper" lg="6">
@@ -72,27 +70,18 @@ export default function Download() {
               color="twitter"
               id="twitter"
               size="lg"
+                href="https://twitter.com/torchlabs_ai/"
             >
               <i className="fab fa-twitter" />
             </Button>
             <UncontrolledTooltip delay={0} target="twitter">
               Tweet!
             </UncontrolledTooltip>
-            <Button
-              className="btn-icon btn-round"
-              color="facebook"
-              id="facebook"
-              size="lg"
-            >
-              <i className="fab fa-facebook-square" />
-            </Button>
-            <UncontrolledTooltip delay={0} target="facebook">
-              Share!
-            </UncontrolledTooltip>
+
             <Button
               className="btn-icon btn-round"
               color="github"
-              href="https://github.com/creativetimofficial"
+              href="https://github.com/mmchougule"
               id="tooltip877922017"
               size="lg"
               target="_blank"
